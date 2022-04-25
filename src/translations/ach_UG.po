@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-03-15 04:24\n"
+"PO-Revision-Date: 2022-04-25 04:02\n"
 "Last-Translator: \n"
 "Language-Team: Acholi\n"
 "MIME-Version: 1.0\n"
@@ -1116,6 +1116,9 @@ msgstr "crwdns37689:0crwdne37689:0"
 
 msgid "Action required"
 msgstr "crwdns124278:0crwdne124278:0"
+
+msgid "Action required!"
+msgstr "crwdns171242:0crwdne171242:0"
 
 msgid "Active trading clients"
 msgstr "crwdns37691:0crwdne37691:0"
@@ -2350,6 +2353,9 @@ msgstr "crwdns37954:0crwdne37954:0"
 msgid "Buy = go long"
 msgstr "crwdns42051:0crwdne42051:0"
 
+msgid "Buy and sell contracts, renew expired purchases, and top up demo accounts."
+msgstr "crwdns171232:0crwdne171232:0"
+
 msgid "Buy or Sell"
 msgstr "crwdns87364:0crwdne87364:0"
 
@@ -2484,21 +2490,6 @@ msgstr "crwdns158280:0crwdne158280:0"
 
 msgid "Can I offer my referrals an incentive to sign up through my unique affiliate link rather than sign up directly?"
 msgstr "crwdns43859:0crwdne43859:0"
-
-msgid "Can be used to buy and sell contracts, renew expired purchases, and top-up demo accounts."
-msgstr "crwdns163890:0crwdne163890:0"
-
-msgid "Can be used to open accounts, set settings, manage token usage, and more."
-msgstr "crwdns37974:0crwdne37974:0"
-
-msgid "Can be used to view account activity, including settings, limits, balance sheets, trade purchase history, and more."
-msgstr "crwdns37975:0crwdne37975:0"
-
-msgid "Can be used to view the trading history of an account."
-msgstr "crwdns85227:0crwdne85227:0"
-
-msgid "Can be used to withdraw to payment agents and transfer funds between accounts."
-msgstr "crwdns68772:0crwdne68772:0"
 
 msgid "Can you spare 15 minutes?"
 msgstr "crwdns53108:0crwdne53108:0"
@@ -5665,6 +5656,9 @@ msgstr "crwdns165321:0%1crwdne165321:0"
 msgid "Historical Mediterranean island"
 msgstr "crwdns46419:0crwdne46419:0"
 
+msgid "Hit <strong>OK</strong> to edit your answer and try again"
+msgstr "crwdns171244:0crwdne171244:0"
+
 msgid "Hits & Impression report: Displays your hit rate and click through rates"
 msgstr "crwdns43880:0crwdne43880:0"
 
@@ -8290,6 +8284,9 @@ msgstr "crwdns39340:0crwdne39340:0"
 msgid "Open account"
 msgstr "crwdns52538:0crwdne52538:0"
 
+msgid "Open accounts, manage settings, manage token usage, and more."
+msgstr "crwdns171234:0crwdne171234:0"
+
 msgid "Open an account and start trading in minutes."
 msgstr "crwdns90016:0crwdne90016:0"
 
@@ -8430,6 +8427,9 @@ msgstr "crwdns39379:0crwdne39379:0"
 
 msgid "Our locations"
 msgstr "crwdns39383:0crwdne39383:0"
+
+msgid "Our machines don’t recognise some of the symbols you used. They only understand letters, numbers, and these symbols  . , ‘ - "
+msgstr "crwdns171246:0crwdne171246:0"
 
 msgid "Our metal pairs are typically traded in lots. One standard lot is equivalent to 100 units except silver where 1 lot equals 5,000 units. Each time you open a position on a symbol, you can start with a minimum transaction of 0.01 lots."
 msgstr "crwdns42315:0crwdne42315:0"
@@ -13003,9 +13003,6 @@ msgstr "crwdns46440:0crwdne46440:0"
 msgid "Token"
 msgstr "crwdns40212:0crwdne40212:0"
 
-msgid "Token name"
-msgstr "crwdns53674:0crwdne53674:0"
-
 msgid "Too many failed attempts"
 msgstr "crwdns158576:0crwdne158576:0"
 
@@ -13807,6 +13804,9 @@ msgstr "crwdns40362:0crwdne40362:0"
 msgid "View"
 msgstr "crwdns40363:0crwdne40363:0"
 
+msgid "View account activity such as settings, limits, balance sheets, trade purchase history, and more."
+msgstr "crwdns171236:0crwdne171236:0"
+
 msgid "View available payment methods"
 msgstr "crwdns40369:0crwdne40369:0"
 
@@ -13836,6 +13836,9 @@ msgstr "crwdns40375:0crwdne40375:0"
 
 msgid "View the operating hours of the markets you can trade."
 msgstr "crwdns40376:0crwdne40376:0"
+
+msgid "View the trading history."
+msgstr "crwdns171238:0crwdne171238:0"
 
 msgid "View updated statement"
 msgstr "crwdns52722:0crwdne52722:0"
@@ -13956,6 +13959,9 @@ msgstr "crwdns86005:0crwdne86005:0"
 
 msgid "We cannot verify you without using your camera"
 msgstr "crwdns158612:0crwdne158612:0"
+
+msgid "We couldn’t read that!"
+msgstr "crwdns171248:0crwdne171248:0"
 
 msgid "We delete an order with the largest margin reserved."
 msgstr "crwdns90170:0crwdne90170:0"
@@ -14514,6 +14520,9 @@ msgstr "crwdns43497:0crwdne43497:0"
 
 msgid "Withdraw funds from your MT5 account"
 msgstr "crwdns43159:0crwdne43159:0"
+
+msgid "Withdraw to payment agents, and transfer funds between accounts."
+msgstr "crwdns171240:0crwdne171240:0"
 
 msgid "Withdrawal"
 msgstr "crwdns41824:0crwdne41824:0"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-04-08 06:56\n"
+"PO-Revision-Date: 2022-04-25 04:03\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "MIME-Version: 1.0\n"
@@ -1116,6 +1116,9 @@ msgstr "Hành động"
 
 msgid "Action required"
 msgstr "Hành động cần làm"
+
+msgid "Action required!"
+msgstr ""
 
 msgid "Active trading clients"
 msgstr "Các khách hàng tích cực giao dịch"
@@ -2351,6 +2354,9 @@ msgstr "Mua"
 msgid "Buy = go long"
 msgstr "Mua = đi lên"
 
+msgid "Buy and sell contracts, renew expired purchases, and top up demo accounts."
+msgstr "Mua và bán các loại hợp đồng, làm mới hợp đồng mua đã hết hạn, nạp tiền vào tài khoản tiền ảo."
+
 msgid "Buy or Sell"
 msgstr "Mua hoặc Bán"
 
@@ -2485,21 +2491,6 @@ msgstr "Camera không hoạt động?"
 
 msgid "Can I offer my referrals an incentive to sign up through my unique affiliate link rather than sign up directly?"
 msgstr "Tôi có thể mời người tôi giới thiệu đăng ký qua đường dẫn liên kết đặc biệt của tôi thay vì đăng ký trực tiếp không?"
-
-msgid "Can be used to buy and sell contracts, renew expired purchases, and top-up demo accounts."
-msgstr "Có thể được sử dụng để mua và bán hợp đồng, làm mới giao dịch mua đã hết hạn, và nạp tiền vào các tài khoản demo."
-
-msgid "Can be used to open accounts, set settings, manage token usage, and more."
-msgstr "Có thể được sử dụng để mở tài khoản, cài đặt, quản lý việc sử dụng mã token, và nhiều hơn thế nữa."
-
-msgid "Can be used to view account activity, including settings, limits, balance sheets, trade purchase history, and more."
-msgstr "Có thể được sử dụng để xem hoạt động của tài khoản, bao gồm cài đặt, giới hạn, số dư, lịch sử giao dịch, và nhiều hơn thế nữa."
-
-msgid "Can be used to view the trading history of an account."
-msgstr "Có thể được sử dụng để xem lịch sử giao dịch của một tài khoản."
-
-msgid "Can be used to withdraw to payment agents and transfer funds between accounts."
-msgstr "Có thể được sử dụng để rút tiền qua các đại lý thanh toán và chuyển khoản giữa các tài khoản."
 
 msgid "Can you spare 15 minutes?"
 msgstr "Bạn có thể dành ra 15 phút không?"
@@ -5666,6 +5657,9 @@ msgstr "Gợi ý: Bạn có thể đã chọn một mật khẩu MT5 khác với
 msgid "Historical Mediterranean island"
 msgstr "Đảo địa trung hải với bề dầy lịch sử"
 
+msgid "Hit <strong>OK</strong> to edit your answer and try again"
+msgstr ""
+
 msgid "Hits & Impression report: Displays your hit rate and click through rates"
 msgstr "Báo cáo ấn tượng & lượt truy cập: Hiển thị tỷ lệ nhấp chuột và lượt xem của bạn"
 
@@ -8292,6 +8286,9 @@ msgstr "Mở tài khoản miễn phí"
 msgid "Open account"
 msgstr "Mở tài khoản"
 
+msgid "Open accounts, manage settings, manage token usage, and more."
+msgstr "Mở tài khoản, quản lý cài đặt, quản lý việc sử dụng token, và nhiều chức năng khác."
+
 msgid "Open an account and start trading in minutes."
 msgstr "Mở một tài khoản và bắt đầu giao dịch chỉ trong vài phút."
 
@@ -8432,6 +8429,9 @@ msgstr "Công ty của chúng tôi tăng trưởng hữu cơ nhanh chóng do
 
 msgid "Our locations"
 msgstr "Địa chỉ chúng tôi"
+
+msgid "Our machines don’t recognise some of the symbols you used. They only understand letters, numbers, and these symbols  . , ‘ - "
+msgstr ""
 
 msgid "Our metal pairs are typically traded in lots. One standard lot is equivalent to 100 units except silver where 1 lot equals 5,000 units. Each time you open a position on a symbol, you can start with a minimum transaction of 0.01 lots."
 msgstr "Các cặp kim loại của chúng tôi thường được giao dịch theo các lô. Một lô tiêu chuẩn là tương đương với 100 đơn vị ngoại trừ bạc mà 1 lô tương đương 5.000 đơn vị. Mỗi khi bạn mở một phiên trên một ký hiệu, bạn có thể bắt đầu với một giao dịch tối thiểu là 0,01 lô."
@@ -13006,9 +13006,6 @@ msgstr "Ngày nay, Labuan được biết đến như một trung tâm tài chí
 msgid "Token"
 msgstr "Mã Token"
 
-msgid "Token name"
-msgstr "Tên Token"
-
 msgid "Too many failed attempts"
 msgstr "Có quá nhiều lần thử thất bại"
 
@@ -13810,6 +13807,9 @@ msgstr "Công cụ phòng Video"
 msgid "View"
 msgstr "Xem"
 
+msgid "View account activity such as settings, limits, balance sheets, trade purchase history, and more."
+msgstr "Xem hoạt động của tài khoản như cài đặt, giới hạn, số dư, lịch sử giao dịch, và nhiều tính năng khác."
+
 msgid "View available payment methods"
 msgstr "Xem các phương thức thanh toán có sẵn"
 
@@ -13839,6 +13839,9 @@ msgstr "Xem danh sách đầy đủ của tài sản, loại hợp đồng 
 
 msgid "View the operating hours of the markets you can trade."
 msgstr "Xem giờ hoạt động của thị trường bạn có thể giao dịch."
+
+msgid "View the trading history."
+msgstr "Xem lịch sử giao dịch."
 
 msgid "View updated statement"
 msgstr "Xem cập nhật sao kê mới"
@@ -13959,6 +13962,9 @@ msgstr "Chúng tôi không thể xác nhận thông tin cá nhân của ba�
 
 msgid "We cannot verify you without using your camera"
 msgstr "Chúng tôi không thể xác minh cho bạn nếu không sử dụng camera"
+
+msgid "We couldn’t read that!"
+msgstr ""
 
 msgid "We delete an order with the largest margin reserved."
 msgstr "Chúng tôi xóa một lệnh với biên độ lớn nhất được tạo trước."
@@ -14517,6 +14523,9 @@ msgstr "Rút tiền từ MT5"
 
 msgid "Withdraw funds from your MT5 account"
 msgstr "Rút tiền từ tài khoản MT5 của bạn"
+
+msgid "Withdraw to payment agents, and transfer funds between accounts."
+msgstr "Rút tiền cho đại lý thanh toán và chuyển tiền giữa các tài khoản."
 
 msgid "Withdrawal"
 msgstr "Rút tiền"

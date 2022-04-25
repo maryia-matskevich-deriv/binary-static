@@ -1102,6 +1102,9 @@ msgstr ""
 msgid "Action required"
 msgstr ""
 
+msgid "Action required!"
+msgstr ""
+
 msgid "Active trading clients"
 msgstr ""
 
@@ -2335,6 +2338,9 @@ msgstr ""
 msgid "Buy = go long"
 msgstr ""
 
+msgid "Buy and sell contracts, renew expired purchases, and top up demo accounts."
+msgstr ""
+
 msgid "Buy or Sell"
 msgstr ""
 
@@ -2468,21 +2474,6 @@ msgid "Camera not working?"
 msgstr ""
 
 msgid "Can I offer my referrals an incentive to sign up through my unique affiliate link rather than sign up directly?"
-msgstr ""
-
-msgid "Can be used to buy and sell contracts, renew expired purchases, and top-up demo accounts."
-msgstr ""
-
-msgid "Can be used to open accounts, set settings, manage token usage, and more."
-msgstr ""
-
-msgid "Can be used to view account activity, including settings, limits, balance sheets, trade purchase history, and more."
-msgstr ""
-
-msgid "Can be used to view the trading history of an account."
-msgstr ""
-
-msgid "Can be used to withdraw to payment agents and transfer funds between accounts."
 msgstr ""
 
 msgid "Can you spare 15 minutes?"
@@ -5650,6 +5641,9 @@ msgstr ""
 msgid "Historical Mediterranean island"
 msgstr ""
 
+msgid "Hit <strong>OK</strong> to edit your answer and try again"
+msgstr ""
+
 msgid "Hits & Impression report: Displays your hit rate and click through rates"
 msgstr ""
 
@@ -8275,6 +8269,9 @@ msgstr ""
 msgid "Open account"
 msgstr ""
 
+msgid "Open accounts, manage settings, manage token usage, and more."
+msgstr ""
+
 msgid "Open an account and start trading in minutes."
 msgstr ""
 
@@ -8414,6 +8411,9 @@ msgid "Our fast organic growth is supplemented by the acquisition of the client 
 msgstr ""
 
 msgid "Our locations"
+msgstr ""
+
+msgid "Our machines don’t recognise some of the symbols you used. They only understand letters, numbers, and these symbols  . , ‘ - "
 msgstr ""
 
 msgid "Our metal pairs are typically traded in lots. One standard lot is equivalent to 100 units except silver where 1 lot equals 5,000 units. Each time you open a position on a symbol, you can start with a minimum transaction of 0.01 lots."
@@ -12988,9 +12988,6 @@ msgstr ""
 msgid "Token"
 msgstr ""
 
-msgid "Token name"
-msgstr ""
-
 msgid "Too many failed attempts"
 msgstr ""
 
@@ -13792,6 +13789,9 @@ msgstr ""
 msgid "View"
 msgstr ""
 
+msgid "View account activity such as settings, limits, balance sheets, trade purchase history, and more."
+msgstr ""
+
 msgid "View available payment methods"
 msgstr ""
 
@@ -13820,6 +13820,9 @@ msgid "View the full list of assets, contract types and durations."
 msgstr ""
 
 msgid "View the operating hours of the markets you can trade."
+msgstr ""
+
+msgid "View the trading history."
 msgstr ""
 
 msgid "View updated statement"
@@ -13940,6 +13943,9 @@ msgid "We can't validate your personal details because there is some information
 msgstr ""
 
 msgid "We cannot verify you without using your camera"
+msgstr ""
+
+msgid "We couldn’t read that!"
 msgstr ""
 
 msgid "We delete an order with the largest margin reserved."
@@ -14498,6 +14504,9 @@ msgid "Withdraw from MT5"
 msgstr ""
 
 msgid "Withdraw funds from your MT5 account"
+msgstr ""
+
+msgid "Withdraw to payment agents, and transfer funds between accounts."
 msgstr ""
 
 msgid "Withdrawal"

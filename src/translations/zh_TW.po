@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-04-08 06:56\n"
+"PO-Revision-Date: 2022-04-25 04:03\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -1116,6 +1116,9 @@ msgstr "操作"
 
 msgid "Action required"
 msgstr "需要展開行動"
+
+msgid "Action required!"
+msgstr ""
 
 msgid "Active trading clients"
 msgstr "活躍的交易客戶"
@@ -2350,6 +2353,9 @@ msgstr "買入"
 msgid "Buy = go long"
 msgstr "買入 = 多頭頭寸"
 
+msgid "Buy and sell contracts, renew expired purchases, and top up demo accounts."
+msgstr "合約購入與售出、給到期的購入合約延期、及給模擬帳戶存入資金。"
+
 msgid "Buy or Sell"
 msgstr "買入或賣出"
 
@@ -2484,21 +2490,6 @@ msgstr "相機不能用？"
 
 msgid "Can I offer my referrals an incentive to sign up through my unique affiliate link rather than sign up directly?"
 msgstr "我是否可以讓我推薦的客戶不要直接註冊，而是通過我的聯盟專用連結註冊，從而獲得獎金？"
-
-msgid "Can be used to buy and sell contracts, renew expired purchases, and top-up demo accounts."
-msgstr "可用於合同購入與售出、給到期的購入合同延期、及給模擬帳戶存入資金。"
-
-msgid "Can be used to open accounts, set settings, manage token usage, and more."
-msgstr "可用於開帳戶、設定、代幣用法管理等。"
-
-msgid "Can be used to view account activity, including settings, limits, balance sheets, trade purchase history, and more."
-msgstr "可用於檢視帳戶活動，包括設定、限額、資產負債表、交易購入歷史等。"
-
-msgid "Can be used to view the trading history of an account."
-msgstr "可用於查看帳戶的交易歷史。"
-
-msgid "Can be used to withdraw to payment agents and transfer funds between accounts."
-msgstr "用途包括為付款代理取款和帳戶轉賬。"
 
 msgid "Can you spare 15 minutes?"
 msgstr "你能抽出15分鐘時間嗎？"
@@ -5665,6 +5656,9 @@ msgstr "提示：可能您選擇了與%1登入密碼不同的 MT5 密碼。"
 msgid "Historical Mediterranean island"
 msgstr "歷史悠久的地中海島嶼"
 
+msgid "Hit <strong>OK</strong> to edit your answer and try again"
+msgstr ""
+
 msgid "Hits & Impression report: Displays your hit rate and click through rates"
 msgstr "點擊和印象報表: 顯示您的命中率和點擊率"
 
@@ -8290,6 +8284,9 @@ msgstr "註冊免費帳戶"
 msgid "Open account"
 msgstr "開立帳戶"
 
+msgid "Open accounts, manage settings, manage token usage, and more."
+msgstr "開帳戶、設定管理、權杖用法管理等。"
+
 msgid "Open an account and start trading in minutes."
 msgstr "開立帳戶，並於數分鐘內開始交易。"
 
@@ -8430,6 +8427,9 @@ msgstr "我們獲取了主要競爭對手之一 BetsForTraders 的客戶群，�
 
 msgid "Our locations"
 msgstr "我們的位置"
+
+msgid "Our machines don’t recognise some of the symbols you used. They only understand letters, numbers, and these symbols  . , ‘ - "
+msgstr ""
 
 msgid "Our metal pairs are typically traded in lots. One standard lot is equivalent to 100 units except silver where 1 lot equals 5,000 units. Each time you open a position on a symbol, you can start with a minimum transaction of 0.01 lots."
 msgstr "我們的金屬對通常以手為交易單位。一個標準手數相當於100個單位，除了白銀是一手等於5,000個單位。每次當您為某個符號開倉時，您可以從0.01手的最小交易量開始。"
@@ -13003,9 +13003,6 @@ msgstr "今天，Labuan是繁榮的金融中心和免稅旅遊目的地。其主
 msgid "Token"
 msgstr "代幣"
 
-msgid "Token name"
-msgstr "權杖名稱"
-
 msgid "Too many failed attempts"
 msgstr "失敗嘗試次數太多"
 
@@ -13807,6 +13804,9 @@ msgstr "視訊室設施"
 msgid "View"
 msgstr "檢視"
 
+msgid "View account activity such as settings, limits, balance sheets, trade purchase history, and more."
+msgstr "檢視包括設定、限額、資產負債表、交易購入歷史等帳戶活動。"
+
 msgid "View available payment methods"
 msgstr "查看支付方式"
 
@@ -13836,6 +13836,9 @@ msgstr "檢視資產、合約類型以及期限的完整清單。"
 
 msgid "View the operating hours of the markets you can trade."
 msgstr "檢視您可以進行交易的市場開放時間。"
+
+msgid "View the trading history."
+msgstr "檢視交易歷史。"
 
 msgid "View updated statement"
 msgstr "查看更新的聲明"
@@ -13956,6 +13959,9 @@ msgstr "因缺少一些資訊，我們無法驗證您的個人資料。"
 
 msgid "We cannot verify you without using your camera"
 msgstr "不使用相機，我們無法驗證您的身份"
+
+msgid "We couldn’t read that!"
+msgstr ""
 
 msgid "We delete an order with the largest margin reserved."
 msgstr "我們刪除訂單，並保留金額最大的保證金。"
@@ -14514,6 +14520,9 @@ msgstr "自MT5提款"
 
 msgid "Withdraw funds from your MT5 account"
 msgstr "從您的 MT5 帳戶中提取資金"
+
+msgid "Withdraw to payment agents, and transfer funds between accounts."
+msgstr "為付款代理取款和帳戶轉帳。"
 
 msgid "Withdrawal"
 msgstr "提款"

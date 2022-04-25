@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: binary-static\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-04-08 06:56\n"
+"PO-Revision-Date: 2022-04-25 04:03\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -1116,6 +1116,9 @@ msgstr "Акт"
 
 msgid "Action required"
 msgstr "Требуется действие"
+
+msgid "Action required!"
+msgstr ""
 
 msgid "Active trading clients"
 msgstr "Активные клиенты"
@@ -2350,6 +2353,9 @@ msgstr "Покупка"
 msgid "Buy = go long"
 msgstr "Покупка = длинная позиция"
 
+msgid "Buy and sell contracts, renew expired purchases, and top up demo accounts."
+msgstr "Покупка и продажа контрактов, возобновление закончившихся контрактов, а также пополнение демо-счетов."
+
 msgid "Buy or Sell"
 msgstr "Купить или Продать"
 
@@ -2484,21 +2490,6 @@ msgstr "Не работает камера?"
 
 msgid "Can I offer my referrals an incentive to sign up through my unique affiliate link rather than sign up directly?"
 msgstr "Могу ли я предложить рефералам вознаграждение за регистрацию через мою ссылку, а не напрямую через сайт?"
-
-msgid "Can be used to buy and sell contracts, renew expired purchases, and top-up demo accounts."
-msgstr "Может использоваться для покупки и продажи контрактов, возобновления закончившихся контрактов, а также пополнения демо-счетов."
-
-msgid "Can be used to open accounts, set settings, manage token usage, and more."
-msgstr "Может использоваться для открытия счетов, настройки параметров, управления токенами и многого другого."
-
-msgid "Can be used to view account activity, including settings, limits, balance sheets, trade purchase history, and more."
-msgstr "Может использоваться для просмотра активности на счете, в том числе настроек, лимитов, баланса, истории торговли и др."
-
-msgid "Can be used to view the trading history of an account."
-msgstr "Может использоваться для просмотра торговой истории счета."
-
-msgid "Can be used to withdraw to payment agents and transfer funds between accounts."
-msgstr "Применяется для вывода средств через платёжных агентов и перевода средств между счетами."
 
 msgid "Can you spare 15 minutes?"
 msgstr "Можете уделить 15 минут вашего времени?"
@@ -5666,6 +5657,9 @@ msgstr "Подсказка: возможно, ваш пароль MT5 отлич
 msgid "Historical Mediterranean island"
 msgstr "Средиземноморский остров с богатой историей"
 
+msgid "Hit <strong>OK</strong> to edit your answer and try again"
+msgstr ""
+
 msgid "Hits & Impression report: Displays your hit rate and click through rates"
 msgstr "Отчёт об успехах: отображает процент кликов и переходов"
 
@@ -8291,6 +8285,9 @@ msgstr "Открыть бесплатный счет"
 msgid "Open account"
 msgstr "Открыть счёт"
 
+msgid "Open accounts, manage settings, manage token usage, and more."
+msgstr "Открытие счетов, управление настройками счета, управление ключами и др."
+
 msgid "Open an account and start trading in minutes."
 msgstr "Откройте счёт и начните торговать за считанные минуты."
 
@@ -8431,6 +8428,9 @@ msgstr "Наш быстрый рост дополняется приобрете
 
 msgid "Our locations"
 msgstr "Наши офисы"
+
+msgid "Our machines don’t recognise some of the symbols you used. They only understand letters, numbers, and these symbols  . , ‘ - "
+msgstr ""
 
 msgid "Our metal pairs are typically traded in lots. One standard lot is equivalent to 100 units except silver where 1 lot equals 5,000 units. Each time you open a position on a symbol, you can start with a minimum transaction of 0.01 lots."
 msgstr "Наши пары с металлами, как правило, торгуются в лотах. Один стандартный лот равен 100 единицам, за исключением серебра, где один лот равен 5000 единиц. Каждый раз, когда вы открываете позицию по символу, вы можете начать с минимальной транзакции в 0,01 лота."
@@ -12282,7 +12282,7 @@ msgid "The market exit price is the price in effect at the end of the contract p
 msgstr "Выходная цена рынка – это котировка, действительная на момент окончания контракта."
 
 msgid "The materials comprising the %1 website (including without limitation all articles, text, images, logos, compilation, systems, code, and design) are under Copyright %2 Deriv Group companies with all rights reserved."
-msgstr "Материалы, составляющие сайт %1 (включая, без ограничений, все статьи, текст, изображения, логотипы, компиляцию, системы, код и дизайн), находятся под авторским правом %2 группы компаний Deriv Group. Все права защищены."
+msgstr "Материалы, составляющие сайт %1 (включая, без ограничений, все статьи, текст, изображения, логотипы, компиляцию, системы, код и дизайн), защищены авторским правом %2 группы компаний Deriv Group."
 
 msgid "The maximum loss that may be incurred by any client is the amount of money paid by the client to the Company."
 msgstr "Максимальный убыток, который может потерпеть клиент, — это сумма, уплаченная им Компании."
@@ -13003,9 +13003,6 @@ msgstr "Сегодня Лабуан известен как процветающ
 
 msgid "Token"
 msgstr "Ключ"
-
-msgid "Token name"
-msgstr "Название ключа"
 
 msgid "Too many failed attempts"
 msgstr "Слишком много неудачных попыток"
@@ -13808,6 +13805,9 @@ msgstr "Видео комната"
 msgid "View"
 msgstr "Просмотр"
 
+msgid "View account activity such as settings, limits, balance sheets, trade purchase history, and more."
+msgstr "Просмотр активности счета, настроек, лимитов, баланса, истории торговли и др."
+
 msgid "View available payment methods"
 msgstr "См. доступные способы оплаты"
 
@@ -13837,6 +13837,9 @@ msgstr "Смотрите полный список активов, типов к
 
 msgid "View the operating hours of the markets you can trade."
 msgstr "Узнайте время открытия и закрытия всех рынков, на которых можно работать."
+
+msgid "View the trading history."
+msgstr "Просмотр истории торговли."
 
 msgid "View updated statement"
 msgstr "Просмотреть новую выписку"
@@ -13957,6 +13960,9 @@ msgstr "Мы не можем подтвердить ваши личные дан
 
 msgid "We cannot verify you without using your camera"
 msgstr "Мы не можем верифицировать вас, не используя камеру"
+
+msgid "We couldn’t read that!"
+msgstr ""
 
 msgid "We delete an order with the largest margin reserved."
 msgstr "Ордер с наибольшим маржинальным требованием будет удален."
@@ -14515,6 +14521,9 @@ msgstr "Вывести средства с MT5"
 
 msgid "Withdraw funds from your MT5 account"
 msgstr "Вывод средств со счёта MT5"
+
+msgid "Withdraw to payment agents, and transfer funds between accounts."
+msgstr "Вывод средств через платежных агентов и перевод средств между счетами."
 
 msgid "Withdrawal"
 msgstr "Вывод"

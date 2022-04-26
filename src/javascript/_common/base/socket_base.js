@@ -180,9 +180,6 @@ const BinarySocketBase = (() => {
 
         if (isReady() && !availability.is_down && config.isOnline()) {
             is_disconnect_called = false;
-            if (!getPropertyValue(data, 'passthrough') && !getPropertyValue(data, 'verify_email')) {
-                data.passthrough = {};
-            }
 
             binary_socket.send(JSON.stringify(data));
             config.wsEvent('send');

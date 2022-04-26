@@ -225,7 +225,6 @@ const Purchase = (() => {
         if (show_chart) {
             const request = {
                 proposal_open_contract: 1,
-                contract_id           : receipt.contract_id,
                 subscribe             : 1,
             };
             BinarySocket.send(request, { callback: (response) => {

@@ -227,7 +227,7 @@ const Purchase = (() => {
                 proposal_open_contract: 1,
                 subscribe             : 1,
             };
-            BinarySocket.send(request, { callback: (response) => {
+            BinarySocket.send(request).then((response) => {
                 const mw_response = response.proposal_open_contract ? changePocNumbersToString(response) : undefined;
                 const contract = mw_response ? mw_response.proposal_open_contract : undefined;
                 if (contract) {
@@ -245,7 +245,7 @@ const Purchase = (() => {
                         sellExpired();
                     }
                 }
-            } });
+            });
         }
     };
 
